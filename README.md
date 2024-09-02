@@ -4,6 +4,6 @@ Simple Serial Monitor is yet another stand alone replacement for the Arduino ser
 
 Simple Serial Monitor was created as an example of using the serial port in Visual Basic NET. The app is written in Visual Basic.NET (Framework) and uses .NET 4.8. NET 4.8 is an older version of .NET that has drag & drop serial ports in the designer making serial ports a little easier to implement.
 
-<img src="simple-serial-monitor.jpg" alt="Simple Serial Monitor Main Window"  width="100%" >
+<img src="simple-serial-monitor_02.jpg" alt="Simple Serial Monitor Main Window"  >
 
 more details at https://www.martyncurrey.com/simple-serial-monitor/
