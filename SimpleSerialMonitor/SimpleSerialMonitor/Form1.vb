@@ -27,10 +27,10 @@ Public Class SimpleSerial
 
     Dim MAIN_RichTextBox_textSize As Integer = 1
 
-    ' colours used fir the text in the main text box
+    ' colours used for the text in the main text box
     ' Black = received text
     ' Blue = sent text
-    ' red = system message
+    ' Red = system message
     Dim colBlack As Color = Color.Black
     Dim colBlue As Color = Color.Blue
     Dim colRed As Color = Color.Red
