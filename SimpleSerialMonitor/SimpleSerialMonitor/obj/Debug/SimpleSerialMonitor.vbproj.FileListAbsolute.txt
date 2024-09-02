@@ -1,0 +1,12 @@
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\bin\Debug\SimpleSerialMonitor.exe.config
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\bin\Debug\SimpleSerialMonitor.exe
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\bin\Debug\SimpleSerialMonitor.pdb
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\bin\Debug\SimpleSerialMonitor.xml
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.vbproj.AssemblyReference.cache
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.Resources.resources
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.vbproj.GenerateResource.cache
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.vbproj.CoreCompileInputs.cache
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.exe
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.xml
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.pdb
+E:\!__VB Projects\SimpleSerialMonitor\SimpleSerialMonitor\SimpleSerialMonitor\obj\Debug\SimpleSerialMonitor.SimpleSerial.resources
